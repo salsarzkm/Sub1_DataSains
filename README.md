@@ -41,7 +41,7 @@ Dataset yang telah disediakan oleh PT Jaya Jaya Maju berisi informasi demografis
 4. Pembuatan Dashboard Bisnis (Looker Studio)
     Dalam inisiatif ini, telah dilakukan pembuatan dashboard bisnis menggunakan Looker Studio untuk memvisualisasikan data kunci terkait distribusi attrition dan faktor-faktor yang memengaruhinya. 
 
-**Catatan: Tidak menggunakan Metabase dalam projek ini, sehingga tidak ada**
+**CATATAN: Tidak menggunakan Metabase dalam projek ini, sehingga tidak ada metabase.db.mv.db**
 
 ### Persiapan
 
