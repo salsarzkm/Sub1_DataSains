@@ -4,6 +4,8 @@
 
 Jaya Jaya Maju merupakan perusahaan multinasional yang telah berdiri sejak tahun 2000 dan memiliki lebih dari 1.000 karyawan yang tersebar di seluruh Indonesia. Dengan skala perusahaan yang besar dan cakupan operasional yang luas, Jaya Jaya Maju telah membuktikan diri sebagai pemain utama dalam industrinya. Namun, seiring dengan pertumbuhan perusahaan, tantangan internal khususnya dalam pengelolaan sumber daya manusia (SDM) semakin kompleks. Salah satu permasalahan yang ada adalah Jaya Jaya Maju menghadapi tingkat attrition (tingkat pengunduran diri karyawan) yang tinggi. Untuk mengatasi isu krusial ini, diperlukan analisis mendalam guna mengidentifikasi faktor-faktor kunci atau penyebab mendasar yang berkontribusi terhadap tingginya angka pengunduran diri karyawan, sehingga strategi retensi yang efektif dapat dirumuskan dan diimplementasikan.
 
+---
+
 ### Permasalahan Bisnis
 
 Meskipun telah memiliki sistem manajemen SDM yang mapan, Jaya Jaya Maju menghadapi tingkat attrition (tingkat pengunduran diri karyawan) yang cukup tinggi, yaitu lebih dari 10%. Angka ini berada di atas rata-rata industri dan berpotensi menimbulkan berbagai dampak negatif, seperti:
@@ -14,6 +16,8 @@ Meskipun telah memiliki sistem manajemen SDM yang mapan, Jaya Jaya Maju menghada
 
 Tingginya attrition ini menjadi sinyal bahwa ada faktor-faktor mendasar dalam lingkungan kerja atau manajemen karyawan yang perlu diidentifikasi dan diperbaiki.
 
+---
+
 ### Tujuan Proyek
 
 Dari permasalahan yang dihadapi oleh perusahaan, maka Departemen Human Resources (HR) Jaya Jaya Maju telah menginisiasi proyek analisis data dengan tujuan untuk:
@@ -21,9 +25,11 @@ Dari permasalahan yang dihadapi oleh perusahaan, maka Departemen Human Resources
 2. Membangun dashboard bisnis yang dapat memvisualisasikan metrik-metrik penting terkait attrition secara real-time, untuk mendukung pengambilan keputusan strategis oleh manajemen HR.
 3. Memberikan rekomendasi berbasis data dalam upaya menurunkan attrition dan meningkatkan retensi karyawan.
 
+---
+
 ### Cakupan Proyek
 
-### ✅ Data yang Digunakan
+#### ✅ Data yang Digunakan
 Dataset yang telah disediakan oleh PT Jaya Jaya Maju berisi informasi demografis, kondisi kerja, dan label attrition untuk masing-masing karyawan, termasuk fitur-fitur seperti:
 1. Informasi demografi: Age, Gender, Education, MaritalStatus, dll.
 2. Detail pekerjaan: Department, JobRole, JobLevel, JobSatisfaction, dll.
@@ -31,21 +37,23 @@ Dataset yang telah disediakan oleh PT Jaya Jaya Maju berisi informasi demografis
 4. Data lainnya: OverTime, WorkLifeBalance, YearsAtCompany, dll.
 5. Target: Attrition (0 = tidak keluar, 1 = keluar)
 
-### ✅ Langkah-langkah Proyek
-1. Data Understanding & Exploratory Data Analysis (EDA)
+#### ✅ Langkah-langkah Proyek
+1. Data Understanding & Exploratory Data Analysis (EDA):
     Dalam tahap Data Understanding dan Exploratory Data Analysis (EDA), fokus utama adalah memperoleh pemahaman mendalam tentang data, dimulai dengan menganalisis distribusi setiap variabel. Proses ini juga melibatkan penanganan missing values dan outlier untuk memastikan kualitas dan kebersihan data, serta melakukan visualisasi awal guna mengidentifikasi pola-pola yang berpotensi memiliki pengaruh terhadap tingkat attrition.
-2. Preprocessing Data
+2. Preprocessing Data:
     Tahapan preprocessing data krusial dilakukan dengan mengawali proses encoding variabel kategorikal, diikuti dengan standarisasi data numerik untuk memastikan skala yang seragam. Selanjutnya, dilakukan penyeimbangan kelas untuk mengatasi potensi imbalance data, sebelum akhirnya data dibagi menjadi set pelatihan dan pengujian untuk analisis lebih lanjut.
-3. Pembuatan Model Prediksi
+3. Pembuatan Model Prediksi:
     Dalam upaya membangun model prediksi, akan diimplementasikan algoritma klasifikasi XGBoost, kemudian mengevaluasi akurasi model secara komprehensif menggunakan metrik-metrik standar seperti precision, recall, F1-score, dan ROC AUC.
-4. Pembuatan Dashboard Bisnis (Looker Studio)
+4. Pembuatan Dashboard Bisnis (Looker Studio):
     Dalam inisiatif ini, telah dilakukan pembuatan dashboard bisnis menggunakan Looker Studio untuk memvisualisasikan data kunci terkait distribusi attrition dan faktor-faktor yang memengaruhinya. 
 
 **CATATAN: Tidak menggunakan Metabase dalam projek ini, sehingga tidak ada metabase.db.mv.db**
 
+---
+
 ### Persiapan
 
-### ✅ Sumber data:
+#### ✅ Sumber data:
 
 Sumber data yang digunakan berasal dari repository GitHub Dicoding Academy, yaitu `https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee`, dengan nama file `employee_data.csv`. Dataset ini berisi detail demografi karyawan, metrik terkait pekerjaan, dan penanda attrition.
 
@@ -85,7 +93,7 @@ WorkLifeBalance: Keseimbangan kehidupan kerja (1=Rendah, 2=Baik, 3=Sangat Baik, 
 - `YearsSinceLastPromotion`: Jumlah tahun sejak promosi terakhir.
 - `YearsWithCurrManager`: Jumlah tahun dengan manajer saat ini.
 
-### ✅ Setup environment:
+#### ✅ Setup environment:
 
 Dengan Menggunakan Anaconda
 ```
@@ -106,9 +114,13 @@ pip install notebook
 jupyter notebook
 ```
 
+---
+
 ## Business Dashboard
 
 Dashboard bisnis dibuat dengan Looker Studio untuk memvisualisasikan dan menganalisis secara mendalam fenomena attrition karyawan. Dashboard ini menyajikan beberapa perspektif kunci, termasuk distribusi attrition secara keseluruhan, dampak lembur terhadap tingkat pengunduran diri, hubungan antara kepuasan kerja dan attrition, rentang usia dominan karyawan yang mengundurkan diri, serta pengaruh tingkat pendidikan terhadap keputusan pengunduran diri. Tampilan visual yang jelas dan ringkas ini memungkinkan pemangku kepentingan untuk dengan cepat mengidentifikasi pola dan faktor-faktor yang berkontribusi pada attrition karyawan di Jaya Jaya Maju. Akses dashboard dapat melalui tautan berikut:[Dashboard](https://lookerstudio.google.com/reporting/6d8b83ea-9f95-4b11-b2f5-6f836737f4fb)
+
+---
 
 ## Conclusion
 
@@ -123,6 +135,8 @@ Berdasarkan heatmap korelasi antar fitur numerik yang dihasilkan selama fase Eks
 
 ![Attrition Rate By Dummy Variabel](https://github.com/salsarzkm/Sub1_DataSains/blob/main/AttritionRateByDummyVariables.png)
 Berdasarkan analisis tingkat attrition berdasarkan variabel dummy, dapat disimpulkan bahwa faktor-faktor seperti peran pekerjaan, intensitas kerja, dan status perkawinan memiliki pengaruh signifikan terhadap keputusan karyawan untuk mengundurkan diri. Secara spesifik, karyawan dengan peran Sales Representative menunjukkan tingkat attrition tertinggi, sementara peran manajerial seperti Manager, Research Director, dan Manufacturing Director memiliki tingkat attrition yang sangat rendah. Selain itu, bekerja lembur (OverTime) dan sering melakukan perjalanan bisnis (BusinessTravel_Travel_Frequently) berkorelasi kuat dengan tingkat attrition yang lebih tinggi. Penting juga dicatat bahwa karyawan dengan status perkawinan Single memiliki tingkat attrition yang jauh lebih tinggi dibandingkan dengan mereka yang sudah menikah.
+
+---
 
 ### Rekomendasi Action Items (Optional)
 
