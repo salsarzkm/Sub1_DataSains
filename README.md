@@ -143,33 +143,38 @@ Berdasarkan analisis tingkat attrition berdasarkan variabel dummy, dapat disimpu
 Berdasarkan temuan yang telah disampaikan dari dashboard, berikut adalah rekomendasi action item yang dapat dilakukan oleh departemen HR untuk menurunkan tingkat attrition di Jaya Jaya Maju:
 
 1. **Evaluasi dan Perbaiki Beban Kerja pada Peran Tertentu**
+
    Temuan: Peran dengan tingkat turnover tinggi, yaitu Laboratory Technician, Sales Executive, Research Scientist, dan Sales Representative. Posisi-posisi tersebut meenjadi fokus dalam evaluasi dan perbaikan beban kerja
     Action Items:
     - Lakukan job audit dan workload analysis untuk posisi-posisi tersebut.
     - Tinjau ulang job description dan realokasi tugas bila diperlukan.
     - Sediakan dukungan tambahan seperti asisten atau teknologi pendukung.
 
-2. **Kelola Kebijakan Lembur dengan Lebih Baik**
-    Temuan: 54.7% dari karyawan yang resign melakukan lembur.
+3. **Kelola Kebijakan Lembur dengan Lebih Baik**
+
+   Temuan: 54.7% dari karyawan yang resign melakukan lembur.
     Action Items:
     - Tetapkan batas maksimal lembur yang lebih ketat.
     - Wajibkan kompensasi lembur baik secara finansial maupun waktu cuti tambahan (compensatory time-off).
     - Lakukan survei rutin mengenai persepsi terhadap beban kerja dan lembur.
     
-3. **Tingkatkan Retensi pada Karyawan Pendidikan Menengah**
-    Temuan: Pendidikan level 3 (42.5%) dan 4 (24.6%) mendominasi pengunduran diri.
+5. **Tingkatkan Retensi pada Karyawan Pendidikan Menengah**
+
+   Temuan: Pendidikan level 3 (42.5%) dan 4 (24.6%) mendominasi pengunduran diri.
     Action Items:
     - Sediakan jalur karier dan program pelatihan profesional yang jelas.
     - Dorong pengembangan keterampilan
     - Buat program mentoring untuk jenjang pendidikan menengah agar merasa dihargai dan punya prospek.
 
-4. **Fokus pada Usia Rentan Mengundurkan Diri (29–33 Tahun)**
-    Temuan: Mayoritas pengunduran diri terjadi pada usia awal 30-an.
+7. **Fokus pada Usia Rentan Mengundurkan Diri (29–33 Tahun)**
+
+   Temuan: Mayoritas pengunduran diri terjadi pada usia awal 30-an.
     Action Items:
     - Lakukan stay interview dan mentoring untuk kelompok usia ini.
 
-5. **Tingkatkan Kepuasan Kerja Terutama bagi Karyawan yang Lembur**
-    Temuan: Karyawan yang lembur cenderung memiliki kepuasan kerja rendah (tingkat 1 dan 2).
+9. **Tingkatkan Kepuasan Kerja Terutama bagi Karyawan yang Lembur**
+
+   Temuan: Karyawan yang lembur cenderung memiliki kepuasan kerja rendah (tingkat 1 dan 2).
     Action Items:
     - Evaluasi faktor-faktor yang menyebabkan rendahnya kepuasan kerja pada karyawan lembur (misalnya gaji, manajemen, workload, pengakuan).
     
