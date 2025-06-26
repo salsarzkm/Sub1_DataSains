@@ -124,7 +124,7 @@ Dashboard bisnis dibuat dengan Looker Studio untuk memvisualisasikan dan mengana
 
 ## Conclusion
 
-![Visualisasi Dashboard]("TampilanDashboard.png")
+![Visualisasi Dashboard]( <img width="508" alt="salsa_4aJm-dashboard" src="https://github.com/user-attachments/assets/c3a817cb-270a-4f0d-bf13-a1d157790af8" />)
 Berdasarkan visualisasi pada dashboard yang telah dibuat, dapat disimpulkan beberapa temuan kunci terkait attrition karyawan. Mayoritas karyawan (sekitar 59.8%) tidak mengalami pengunduran diri, namun terdapat persentase signifikan sekitar 40% yang menunjukkan adanya attrition. Analisis menunjukkan bahwa lembur memiliki dampak yang relatif kecil terhadap keputusan resign dibandingkan faktor lainnya. Terdapat indikasi bahwa semakin rendah tingkat kepuasan kerja, semakin tinggi potensi attrition. Selain itu, rentang usia 30-an (terutama 35-36 tahun) menunjukkan angka pengunduran diri tertinggi, dan karyawan dengan tingkat pendidikan menengah (level 3 dan 4) lebih sering terlibat dalam keputusan resign dibandingkan dengan mereka yang berpendidikan sangat rendah atau sangat tinggi.
 
 ![Korelasi Fitur dengan Attrition](https://github.com/salsarzkm/Sub1_DataSains/blob/main/CorrelationOfFeaturesWithAttrition.png)
