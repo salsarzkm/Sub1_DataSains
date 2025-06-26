@@ -140,45 +140,36 @@ Berdasarkan analisis tingkat attrition berdasarkan variabel dummy, dapat disimpu
 
 ### Rekomendasi Action Items (Optional)
 
-Berdasarkan temuan yang telah disampaikan dari dashboard dan analisis data, berikut adalah rekomendasi action item yang dapat dilakukan oleh departemen HR untuk menurunkan tingkat attrition di Jaya Jaya Maju:
+Berdasarkan temuan yang telah disampaikan dari dashboard, berikut adalah rekomendasi action item yang dapat dilakukan oleh departemen HR untuk menurunkan tingkat attrition di Jaya Jaya Maju:
 
-1. **Meningkatkan Kepuasan Kerja Karyawan**
-    Temuan: Kepuasan kerja rendah berkorelasi dengan attrition tinggi.
+1. **Evaluasi dan Perbaiki Beban Kerja pada Peran Tertentu**
+   Temuan: Peran dengan tingkat turnover tinggi, yaitu Laboratory Technician, Sales Executive, Research Scientist, dan Sales Representative. Posisi-posisi tersebut meenjadi fokus dalam evaluasi dan perbaikan beban kerja
     Action Items:
-    - MElakukan survei kepuasan kerja secara berkala untuk mengidentifikasi titik masalah.
-    - Mengembangkan program engagement karyawan seperti pengakuan kinerja, kegiatan team building, dan forum feedback.
-    - Melibatkan manajer untuk melakukan coaching dan 1-on-1 meeting rutin untuk mendengar aspirasi karyawan.
+    - Lakukan job audit dan workload analysis untuk posisi-posisi tersebut.
+    - Tinjau ulang job description dan realokasi tugas bila diperlukan.
+    - Sediakan dukungan tambahan seperti asisten atau teknologi pendukung.
 
-2. **Fokus pada Retensi Usia 30-an, Khususnya 35–36 Tahun**
-    Temuan: Kelompok usia ini memiliki attrition tertinggi.
+2. **Kelola Kebijakan Lembur dengan Lebih Baik**
+    Temuan: 54.7% dari karyawan yang resign melakukan lembur.
     Action Items:
-    - Membuat program career pathing dan rotasi jabatan untuk kelompok usia ini agar mereka melihat potensi jangka panjang di perusahaan.
-    - Menawarkan insentif berbasis loyalitas, seperti bonus masa kerja atau opsi saham untuk karyawan dengan masa kerja kritis (5–10 tahun).
-    - Meninjau ulang beban kerja dan kemungkinan tekanan pada kelompok usia ini yang mungkin berada di puncak tanggung jawab hidup dan karier.
+    - Tetapkan batas maksimal lembur yang lebih ketat.
+    - Wajibkan kompensasi lembur baik secara finansial maupun waktu cuti tambahan (compensatory time-off).
+    - Lakukan survei rutin mengenai persepsi terhadap beban kerja dan lembur.
     
-3. **Memperhatikan Karyawan dengan Pendidikan Menengah**
-    Temuan: Level pendidikan 3–4 lebih sering resign dibanding level 1–2 dan level 5.
+3. **Tingkatkan Retensi pada Karyawan Pendidikan Menengah**
+    Temuan: Pendidikan level 3 (42.5%) dan 4 (24.6%) mendominasi pengunduran diri.
     Action Items:
-    - Menyediakan program pengembangan keterampilan (upskilling) untuk pendidikan level 3–4 agar merasa dihargai dan berkembang.
+    - Sediakan jalur karier dan program pelatihan profesional yang jelas.
+    - Dorong pengembangan keterampilan
+    - Buat program mentoring untuk jenjang pendidikan menengah agar merasa dihargai dan punya prospek.
 
-4. **Meningkatkan Retensi melalui Kompensasi dan Stabilitas**
-    Temuan: Pengalaman kerja, masa kerja di peran saat ini, gaji bulanan, dan hubungan yang panjang dengan manajer berkorelasi negatif dengan attrition.
+4. **Fokus pada Usia Rentan Mengundurkan Diri (29–33 Tahun)**
+    Temuan: Mayoritas pengunduran diri terjadi pada usia awal 30-an.
     Action Items:
-    - Meninjau dan sesuaikan struktur kompensasi secara kompetitif berdasarkan lama kerja dan jabatan.
-    - Menerapkan mentoring antara senior dan junior untuk membangun loyalitas jangka panjang.
-    - 
-5. **Memantau dan Manajemen Lembur serta Perjalanan Dinas**
-    Temuan: Lembur dan frequent business travel meningkatkan risiko resign.
+    - Lakukan stay interview dan mentoring untuk kelompok usia ini.
+
+5. **Tingkatkan Kepuasan Kerja Terutama bagi Karyawan yang Lembur**
+    Temuan: Karyawan yang lembur cenderung memiliki kepuasan kerja rendah (tingkat 1 dan 2).
     Action Items:
-    - Menerapkan batasan lembur dan sistem rotasi shift yang lebih manusiawi.
+    - Evaluasi faktor-faktor yang menyebabkan rendahnya kepuasan kerja pada karyawan lembur (misalnya gaji, manajemen, workload, pengakuan).
     
-6. **Memperhatikan Status Perkawinan dan Dukungan Sosial**
-    Temuan: Karyawan single lebih tinggi risiko resign.
-    Action Items:
-    - Memberikan fleksibilitas jam kerja agar karyawan memiliki waktu yang seimbang untuk kehidupan pribadi.
-    
-7. **Menindaklanjut Peran dengan Attrition Tinggi (Sales Representative)**
-    Temuan: Peran Sales Representative memiliki attrition tertinggi.
-    Action Items:
-    - Meninjau ulang beban kerja dan target untuk peran ini.
-    - Memberikan insentif berbasis pencapaian yang realistis.
